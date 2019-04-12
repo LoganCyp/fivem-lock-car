@@ -13,7 +13,7 @@
 
 ### Code Explanation
 
-Change the keys pressed by going to FiveM Controls and change the hex value of the key.
+Change the keys pressed by going to FiveM Controls and change the hex value of the key.Ch
 
 ```python
 
