@@ -1,2 +1,3 @@
-# fivem-lock-car
-FiveM Lock Car Script
+# FiveM Car Locking Script
+
+### Usage Instructions
