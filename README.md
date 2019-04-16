@@ -34,3 +34,6 @@ Citizen.CreateThread(function()
 end)
 
 ```
+### Coming Soon
+
+- Optional Whitelist for Locking Cars
